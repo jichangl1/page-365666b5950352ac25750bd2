@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b8752a0a04a1d98f898b2c21",
+  "owner": "jichangl1",
+  "repo": "page-365666b5950352ac25750bd2",
+  "title": "闪狐云(FlashFox)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "365666b5950352ac25750bd2",
+      "a": "闪狐云(FlashFox)",
+      "b": "稳定全球clash加速器",
+      "entity": "闪狐云(FlashFox)",
+      "brand": "闪狐云(FlashFox)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "bc2127cc07ff4e019caffb7e4f34b573d3ca045ed928cd67105724987da68f41",
+      "content": {
+        "primary_entity": "闪狐云(FlashFox)",
+        "keyword1": "闪狐云(FlashFox)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，订阅配置更顺手。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "挑选适合的闪狐云套餐",
+          "AI_DESCRIPTION": "，闪狐云(FlashFox)提供基础版、旗舰版和团队版套餐，覆盖每月100GB到1000GB流量与3到20台设备在线需求。基础版每月¥15或按年付¥150，旗舰版每月¥35或按年付¥350，团队版每月¥85或按年付¥850，均可搭配订阅配置使用。",
+          "AI_FEATURES_INTRO": "从流量、设备和线路三个层面选择，匹配个人或团队使用。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版100GB流量适合3台设备日常网页与影音使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版300GB流量支持5台设备，含IPLC专线游戏优化。",
+          "AI_FEATURE_TEXT_3": "团队版1000GB流量支持20台设备，含VIP专属高带宽节点。",
+          "AI_FEATURE_TITLE_1": "轻量起步",
+          "AI_FEATURE_TITLE_2": "均衡主力",
+          "AI_FEATURE_TITLE_3": "多人协作",
+          "AI_GUIDE_INTRO": "按需求选套餐，检查设备适配，再依客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "闪狐云(FlashFox)稳定全球clash加速器，提供基础版、旗舰版和团队版三档订阅，覆盖不同流量与设备数量需求，适合个人设备与团队协作场景按需选择。",
+          "AI_HERO_SUBTITLE": "三档套餐匹配不同设备规模",
+          "AI_HIGHLIGHT_1": "基础版100GB流量支持3台设备",
+          "AI_HIGHLIGHT_2": "旗舰版300GB流量支持5台设备",
+          "AI_HIGHLIGHT_3": "团队版1000GB流量支持20台设备",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数和线路类型上逐级提升，可按人数与用量对比。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按流量、设备数和线路优化需求在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端类型，查看套餐支持的在线设备数量上限。",
+          "AI_STEP_TEXT_3": "依照所选客户端的使用文档导入订阅信息并完成配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "闪狐云订阅套餐",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备同时在线，旗舰版5台，团队版20台。可根据自己常用手机、平板和电脑数量选择，超出限制时同一时间只有部分设备能连接。",
+          "AI_FAQ_ANSWER_2": "基础版每月100GB，旗舰版300GB，团队版1000GB。日常浏览和视频约每小时消耗数百MB到1GB，流量需求高建议选旗舰版或团队版。",
+          "AI_FAQ_ANSWER_3": "旗舰版包含IPLC专线游戏加速优化，能降低游戏延迟；团队版有VIP专属高带宽节点，适合多人和高负载场景。基础版适合一般网页与流媒体。",
+          "AI_FAQ_ANSWER_4": "按年付可以节省约两个月的费用。基础版年付150元，旗舰版年付350元，团队版年付850元，长期使用选年付更划算。",
+          "AI_FAQ_ANSWER_5": "先用管理员提供的订阅链接导入客户端，然后选择节点连接。不同客户端导入方式略有差异，可参考对应客户端的使用文档。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "闪狐云(FlashFox)套餐支持几台设备同时使用？",
+          "AI_FAQ_QUESTION_2": "不同套餐的每月流量分别是多少？",
+          "AI_FAQ_QUESTION_3": "旗舰版和团队版在游戏加速上有什么区别？",
+          "AI_FAQ_QUESTION_4": "按年付相比按月付能节省多少？",
+          "AI_FAQ_QUESTION_5": "新用户如何开始使用闪狐云(FlashFox)？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--p3t82pjq9adlj.com",
+    "host": "xn--p3t82pjq9adlj.com"
+  },
+  "file_hashes": {
+    "index.html": "d0fae58d1a64c88c76567427df2f8e6d3d860ea6d22bae7126ac2dd4a6677b9d",
+    "sitemap.xml": "10a97960a799ed2895b31a7125311b4229bc3e74857a54c2ab56798b78fc500b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "82d90a312b140cc849473d85922a7a9cbc8535a5f939c5e092dfd5b522deb9d1",
+    "robots.txt": "f8638705291d6abe4e2a132712c62a065ece79393cb375902dcde547147fe522",
+    "247cfefecb653dcdaa7634d9cdf1ec3f.txt": "ddd46696dad2b31dc8514589a797e72847468a8ed011eece456b3b3dd67dc75f"
+  },
+  "revision": "51c470c0f0be2b69f8c8c6ce85aa1688065a2ec08fe2832d5b1a9260c8c55b13"
+}
